@@ -1,0 +1,38 @@
+The Fish Passage Extension for ArcGIS 10.0
+
+--> Description <--
+
+This project is an Add-In (formerly an Extension) for ArcGIS Desktop.  
+** It is currently only compatible with ArcMap 10.0 **
+
+The toolset enables analysis of river systems to assess connectivity.  
+It leverages and extends upon the existing features and tools provided
+for network analysis in ArcGIS, using the "geometric network" model.  
+
+--> Timeline of Development <--
+
+ * The toolset was created and developed by Fisheries & Oceans Canada, 
+Maritimes Region, Habitat Management & Sustainable Development Division
+(2006 - 2010). 
+
+* In 2011, the toolset was released to the public under a Canadian 
+Creative Commons Attribution Sharealike License v2.5.
+http://creativecommons.org/licenses/by-sa/2.5/ca/
+
+* In 2010 - 2012, the toolset was further developed by Parks Canada
+with additional functionality for assessing the Dendritic Connectivity
+Index (DCI) for river systems. Parks Canada also upgraded compatibility 
+of FIPEX from ArcGIS 9.x to 10.0.
+
+* Concurrently, in 2009 - 2013, the lead developer branched development
+to add additional functionality for FIPEX to work with the GLPK and Gurobi
+optimisation software.  
+
+--> Installation Instructions and System Requirements <--
+
+Please visit www.thefishpassageextension.net
+for inquiries and support: gr336681@dal.ca
+
+--> For Documentation and User Manual <--
+Please visit www.thefishpassageextension.net
+
